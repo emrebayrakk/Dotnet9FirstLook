@@ -1,0 +1,6 @@
+@FirstLook_HostAddress = http://localhost:5161
+
+GET {{FirstLook_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
